@@ -1,6 +1,7 @@
 # 🤖 AI Finance Assistant Bot
 
-![Banner Image](link_ke_gambar_workflow_kamu_disini.png)
+<img width="2752" height="1536" alt="background linkedin" src="https://github.com/user-attachments/assets/e6f846dd-edc8-4932-8a4e-5f1f6f9b2549" />
+
 
 A smart Telegram bot that automates personal finance tracking using **n8n**, **Google Gemini AI**, and **Google Sheets**. This agent can read receipts from photos, understand natural language chats, and generate automated financial reports.
 
